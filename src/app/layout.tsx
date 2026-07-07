@@ -9,7 +9,8 @@ export const metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>{children}        <script src="/akie-badge.js" defer data-akie-project="proj_2d399b95"></script>
+      </body>
     </html>
   );
 }
