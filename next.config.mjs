@@ -1,2 +1,6 @@
-const cfg = { output: 'export' }
-export default cfg
+/** @type {import('next').NextConfig} */
+const cfg = {
+  /* You can add other configuration options here later if needed */
+};
+
+export default cfg;
